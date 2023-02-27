@@ -19,7 +19,7 @@ publishing {
     publications {
         maven(MavenPublication) {
 
-            groupId  'com.epam.utils'
+            groupId  'com.epam.demo'
             artifactId  'utils'
             version  '1.3.5'
 // provide groupId
