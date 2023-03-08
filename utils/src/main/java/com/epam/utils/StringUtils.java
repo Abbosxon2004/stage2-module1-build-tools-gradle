@@ -7,6 +7,5 @@ public class StringUtils {
         } catch (NumberFormatException | NullPointerException e) {
             return false;
         }
-         //here magic will happen
     }
 }
